@@ -1,6 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Bot(
-    getBotData
+      getBotData
+    , clientId
 ) where
 
 import System.Directory
