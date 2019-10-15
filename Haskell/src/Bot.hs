@@ -2,6 +2,7 @@
 module Bot(
       getBotData
     , clientId
+    , Bot
 ) where
 
 import System.Directory
